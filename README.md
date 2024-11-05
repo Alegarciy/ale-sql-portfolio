@@ -1,6 +1,14 @@
-# 💡Faizan's SQL Portfolio
+# 💡Faizan's SQL Portfolio - Original
 
+## Hey Ale Here :)
 
+This is a fork for Faizan's repository, I was looking at some repositories that allowed me to practice SQL and I think this repository has a lot of material. 
+
+Given that situation I forked the project and deleted the sections and will be restoring them with my own solutions and learning experiences.
+
+> Thanks for this amazing community of developers were one can develop as others through the amazing tool of the internet.
+
+## Repository Introduction
 
 Welcome to my SQL Portfolio repository!! 🚀
 
